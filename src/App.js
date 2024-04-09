@@ -2,7 +2,7 @@ import Login from "./Components/Login"
 import Home from "./Components/Home"
 import NotFound from "./Components/NotFound"
 import ProtectedRoute from "./Components/protecctedRoutes"
-import './app.css';
+import './App.css';
 
 import { Route,Router,Navigate,BrowserRouter, Routes } from 'react-router-dom';
 
